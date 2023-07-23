@@ -2,8 +2,6 @@ This is the code and all the needed files to recreate the results of Team Ometeo
 
 [Link to the competition](https://codalab.lisn.upsaclay.fr/competitions/13087)
 
-Link to the paper: IF ACCEPTED.
-
 **Team Members:**
 
 -MsC. Jesús Armenta-Segura. [Email](mailto:jarmentas2022@cic.ipn.mx) | [Webpage](https://sites.google.com/view/jesusarmentasegura)
