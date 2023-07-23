@@ -1,9 +1,8 @@
-This is the code and all the needed files to recreate the results of Team Ometeotl at ultimodal Hate Speech Event Detection 2023. CASE 2023
+This is the code and all the needed files to recreate the results of Team Ometeotl at Multimodal Hate Speech Event Detection 2023. CASE 2023
 
 [Link to the competition](https://codalab.lisn.upsaclay.fr/competitions/13087)
 
 Link to the paper: IF ACCEPTED.
-
 
 Team Members:
 
