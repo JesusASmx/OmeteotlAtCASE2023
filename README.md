@@ -24,8 +24,8 @@ rromang2019@cic.ipn.mx
 
 INSTRUCTIONS:
 
-You can clone the repository by adding this line:
-!git clone https://github.com/JesusASmx/OmeteotlAtCASE2023
+-You can clone the repository by adding this line: !git clone https://github.com/JesusASmx/OmeteotlAtCASE2023
+-The code are STA.ipynb and STB.ipynb for subtask A and B respectively.
 
 DISCLAIMER: All the extracted text inside the OnlyText path are part of the dataset from the organizers of the shared task.
 
