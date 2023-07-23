@@ -7,13 +7,13 @@ Link to the paper: IF ACCEPTED.
 
 Team Members:
 
--MsC. Jesús Armenta-Segura. [Email](mailto:jarmentas2022@cic.ipn.mx) [Webpage](https://sites.google.com/view/jesusarmentasegura)
+-MsC. Jesús Armenta-Segura. [Email](mailto:jarmentas2022@cic.ipn.mx) | [Webpage](https://sites.google.com/view/jesusarmentasegura)
 
 -MsC. César-Jesús Núñez-Prado. [Email](mailto:cnunezp@ipn.mx)
 
--Dr. Grigori Sidorov. [Email](mailto:sidorov@cic.ipn.mx) [Webpage](https://www.cic.ipn.mx/~sidorov/)
+-Dr. Grigori Sidorov. [Email](mailto:sidorov@cic.ipn.mx) | [Webpage](https://www.cic.ipn.mx/~sidorov/)
 
--Dr. Alexander Gelbukh. [Email](mailto:gelbukh@cic.ipn.mx) [Webpage](https://www.gelbukh.com/)
+-Dr. Alexander Gelbukh. [Email](mailto:gelbukh@cic.ipn.mx) | [Webpage](https://www.gelbukh.com/)
 
 -MsC. Rodrigo Román-Godínez. [Email](mailto:rromang2019@cic.ipn.mx)
 
