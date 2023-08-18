@@ -31,4 +31,3 @@ This is the code and all the needed files to recreate the results of Team Ometeo
 **ABOUT THE RESNET152:**
 
 Due technical quirks and time limitations, we coded this model by using a local clone of the dataset. Hence, due Github's storage constraints, we didn't upload it in this repository. 
-However, feel free to email directly to Jesús Armenta-Segura (jarmentas2022@cic.ipn.mx) if you want a copy of the code and the local clone of the dataset to re-run the results.
