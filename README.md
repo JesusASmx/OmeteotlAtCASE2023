@@ -30,4 +30,4 @@ This is the code and all the needed files to recreate the results of Team Ometeo
 
 **ABOUT THE RESNET152:**
 
-Due technical quirks and time limitations, we coded this model by using a local clone of the dataset. Hence, due Github's storage constraints, we didn't upload it in this repository. 
+Due technical quirks and time limitations, we coded this model by using a local clone of the dataset. Hence, due Github's storage constraints, we didn't upload it in this repository. If you require it, please email us.
